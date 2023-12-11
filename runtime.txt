@@ -1,1 +1,2 @@
-python-3.10.6
+googletrans==3.1.0a0
+python-minifier
